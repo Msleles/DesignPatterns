@@ -11,7 +11,7 @@ namespace DesignPatterns.Classes
     {
         public double Calcula(Orcamento orcamento)
         {
-            return orcamento.Valor * 0.25;
+            return orcamento.Valor * 0.6;
         }
     }
 }
