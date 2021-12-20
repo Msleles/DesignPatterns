@@ -19,8 +19,7 @@ namespace DesignPatterns
 
             CalculadorDeImpostos calcula = new CalculadorDeImpostos();
 
-          
-
+        
             calcula.RealizaCalculo(orcamento, iss);
             calcula.RealizaCalculo(orcamento, iCMS);
 
